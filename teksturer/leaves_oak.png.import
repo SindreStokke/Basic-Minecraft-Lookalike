@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/leaves_oak.png-ec5382ddce8672a9d644a92e49ddafc1.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://teksturer/leaves_oak.png"
+dest_files=[ "res://.import/leaves_oak.png-ec5382ddce8672a9d644a92e49ddafc1.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=1
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
