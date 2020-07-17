@@ -18,6 +18,7 @@ Lacking functionalities (at least the most critical):
 - Water physics
 - Performance optimization
 - Saving and loading the world
+- Menu and settings interface
 - Multiplayer
 
 Beware that some variable names and node names are in norwegian.
