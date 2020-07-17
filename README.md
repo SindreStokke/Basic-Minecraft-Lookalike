@@ -1,4 +1,4 @@
-# Basic Minecraft Lookalike
+# Basic Minecraft Lookalike (Godot)
 
 This is a basic Minecraft lookalike made from scratch with Godot 3.2.1. While the goal originally was to make it as close to Minecraft as possible, I have gotten second thoughts as I do not want to infringe on Microsoft's and Mojang Studios intellectual property. This makes the future of this project uncertain.
 
