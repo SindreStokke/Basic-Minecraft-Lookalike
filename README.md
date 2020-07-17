@@ -2,7 +2,7 @@
 
 This is a basic Minecraft lookalike made from scratch with Godot 3.2.1. While the goal originally was to make it as close to Minecraft as possible, I have gotten second thoughts as I do not want to infringe on Microsoft's and Mojang Studios intellectual property. This makes the future of this project uncertain.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://repository-images.githubusercontent.com/280267214/fb289800-c84d-11ea-8cb1-6692ebc0e5c4)
 
 Added functionalities:
 - Procedurally generated world with customizable height, render distance, blocks and tree frequency (as variables at the top of the "Verden"-script).
