@@ -4,7 +4,7 @@ This is a basic Minecraft lookalike made from scratch with Godot 3.2.1. While th
 
 Added functionalities:
 - Procedurally generated world with customizable height, render distance, blocks and tree frequency (as variables at the top of the "Verden"-script).
-- Character movement, including crouching and sprinting.
+- Character movement, including jumping, crouching and sprinting.
 - Ability to destroy and place blocks.
 
 
