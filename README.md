@@ -4,14 +4,14 @@ This is a basic Minecraft lookalike made from scratch using Godot 3.2.1 and GDsc
 
 ![alt text](https://repository-images.githubusercontent.com/280267214/fb289800-c84d-11ea-8cb1-6692ebc0e5c4)
 
-Added functionalities:
+### Added functionalities:
 - Procedurally generated world with customizable height, render distance, blocks and tree frequency (as variables at the top of the "Verden"-script).
 - Character movement, including jumping, crouching and sprinting.
 - Ability to destroy and place blocks.
 - Switching between 1st-person and 3rd-person perspective using F5
 - Toggling information like FPS, player position and player speed using F3.
 
-Lacking functionalities (at least the most critical):
+### Lacking functionalities (at least the most critical):
 - Ability to continously load more terrain as you move around.
 - Ability to choose what blocks to place down.
 - Different biomes
@@ -21,7 +21,7 @@ Lacking functionalities (at least the most critical):
 - Menu and settings interface
 - Multiplayer
 
-How to test and edit:
+### How to test and edit
 1. Download Godot from https://godotengine.org/
 2. Download zip or clone this repository (you can safely ignore any warnings from Chrome).
 3. If you downloaded zip, the extract it.
