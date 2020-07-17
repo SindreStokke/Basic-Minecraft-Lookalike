@@ -19,3 +19,5 @@ Lacking functionalities (at least the most critical):
 - Performance optimization
 - Saving and loading the world
 - Multiplayer
+
+Beware that some variable names and node names are in norwegian.
