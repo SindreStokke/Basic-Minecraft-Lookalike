@@ -9,7 +9,6 @@ Added functionalities:
 - Switching between 1st-person and 3rd-person perspective using F5
 - Toggling information like FPS, player position and player speed using F3.
 
-
 Lacking functionalities (at least the most critical):
 - Ability to continously load more terrain as you move around.
 - Ability to choose what blocks to place down.
