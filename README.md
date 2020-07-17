@@ -29,5 +29,5 @@ This is a basic Minecraft lookalike made from scratch using Godot 3.2.1 and GDsc
 5. Now you can edit it and/ or play it.
 ---
 Beware:
-- Some variable names and node names are in norwegian.
+- Some variable names, node names and push comments are in norwegian.
 - The game seems to have a visual bug and FPS-drops in the newest Godot version.
