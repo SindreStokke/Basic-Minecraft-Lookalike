@@ -15,3 +15,4 @@ Lacking functionalities (at least the most critical):
 - Water physics
 - Performance optimization
 - Saving and loading the world
+- Multiplayer
