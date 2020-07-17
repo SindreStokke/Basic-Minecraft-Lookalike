@@ -27,5 +27,5 @@ This is a basic Minecraft lookalike made from scratch using Godot 3.2.1 and GDsc
 3. If you downloaded zip, the extract it.
 4. Open Godot and import the downloaded repository by navigating to it's file named "project.godot".
 5. Now you can edit it and/ or play it.
-
+---
 Beware that some variable names and node names are in norwegian.
