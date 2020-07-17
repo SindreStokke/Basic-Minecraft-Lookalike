@@ -6,6 +6,8 @@ Added functionalities:
 - Procedurally generated world with customizable height, render distance, blocks and tree frequency (as variables at the top of the "Verden"-script).
 - Character movement, including jumping, crouching and sprinting.
 - Ability to destroy and place blocks.
+- Switching between 1st-person and 3rd-person perspective using F5
+- Toggling information like FPS, player position and player speed using F3.
 
 
 Lacking functionalities (at least the most critical):
