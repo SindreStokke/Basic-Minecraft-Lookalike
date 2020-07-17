@@ -22,7 +22,7 @@ This is a basic Minecraft lookalike made from scratch using Godot 3.2.1 and GDsc
 - Multiplayer
 
 ### How to test and edit
-1. Download Godot from https://godotengine.org/
+1. Download Godot (version 3.2.1 for guarantied compatibility) from https://godotengine.org/
 2. Download zip or clone this repository (you can safely ignore any warnings from Chrome).
 3. If you downloaded zip, the extract it.
 4. Open Godot and import the downloaded repository by navigating to it's file named "project.godot".
